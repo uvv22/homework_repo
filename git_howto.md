@@ -4,8 +4,11 @@
 ```sh
 gti init
 ```
-
+## Просмотр статуса
+```sh
 git status
+```
+
 git add
 git commit -m ""
 git log
