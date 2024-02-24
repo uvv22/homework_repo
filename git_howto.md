@@ -16,7 +16,13 @@ git add
 ```sh
 git commit -m ""
 ```
-
+## Вывод сохраненных изменений
+```sh
 git log
+```
+### Вывод сохраненных изменений (усеченно)
+```sh
 git log --oneline
+```
+
 git checkout
