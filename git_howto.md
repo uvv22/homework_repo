@@ -8,8 +8,11 @@ gti init
 ```sh
 git status
 ```
-
+## Индексация файла
+```sh
 git add
+```
+
 git commit -m ""
 git log
 git log --oneline
