@@ -25,4 +25,7 @@ git log
 git log --oneline
 ```
 
+## Загрузка какой-либо сохраненной версии
+```sh
 git checkout
+```
