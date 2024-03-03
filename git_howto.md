@@ -48,3 +48,4 @@ git merge <branch_name>
 ### Вывод сохраненных изменений (усеченно и ветвленно)
 ```sh
 git log --oneline --graph
+```
