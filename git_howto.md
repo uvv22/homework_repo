@@ -27,7 +27,7 @@ git log --oneline
 
 ## Перемещение по веткам
 ```sh
-git checkout <имя ветки>
+git checkout <branch_name>
 ```
 
 ## Отображение всех веток
@@ -37,10 +37,10 @@ git branch
 
 ## Формирование новой ветки
 ```sh
-git branch "имя ветки"
+git branch <branch_name>
 ```
 
 ## Слияние веток
 ```sh
-git merge имя ветки
+git merge <branch_name>
 ```
