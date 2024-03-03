@@ -49,3 +49,7 @@ git merge <branch_name>
 ```sh
 git log --oneline --graph
 ```
+## Удаление ветки
+```sh
+git branch -d <branch_name>
+```
