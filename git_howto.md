@@ -27,12 +27,12 @@ git log --oneline
 
 ## Перемещение по веткам
 ```sh
-git checkout
+git checkout <имя ветки>
 ```
 
 ## Отображение всех веток
 ```sh
-git branch
+git branch 
 ```
 
 ## Формирование новой ветки
